@@ -1,3 +1,12 @@
 # hello-world
-Just repository
-day 0515.
+これはGithub練習のリポジトリです。
+---
+
+# member
+hoge
+# file
+hoge
+# releace
+hoge
+
+---
