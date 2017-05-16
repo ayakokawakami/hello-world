@@ -1,5 +1,5 @@
 # hello-world
-Githubのリポジトリです
+* Githubの練習用リポジトリ。書いてあることはすべてうそです。
 ---
 
 # member
