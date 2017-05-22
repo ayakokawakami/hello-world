@@ -1,6 +1,5 @@
-#  ファイル
 .DS_store
-# ディレクトリ
-/tmp
-# ワイルドカード
-.log
+.sass-cache
+.gitignore
+config.rb
+/node_modules/
